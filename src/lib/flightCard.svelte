@@ -29,7 +29,6 @@
     }
 
     .vertcenter {
-        font-family: 'Work Sans';
         display: flex;
         justify-items: center;
         align-items: center;
@@ -37,7 +36,7 @@
 
     .large {
         font-size: 1.5em;
-        font-weight: 400;
+        font-weight: 600;
     }
 
     .medium {
