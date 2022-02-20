@@ -1,4 +1,11 @@
+@font-face {
+    font-family: "Work Sans";
+    src: url("/fonts/WorkSans-VariableFont_wght.ttf");
+}
+
 html, a {
+    font-family: 'Work Sans';
+    font-weight: 400;
     background-color: black;
     color: #f7f7f7;
 }
