@@ -18,12 +18,6 @@
 </div>
 
 <style>
-    @font-face {
-        font-family: 'Work Sans';
-        font-feature-settings: "wght";
-        src: url('https://fonts.googleapis.com/css2?family=Work+Sans');
-    }
-
     .card {
         font-family: 'Work Sans';
         display: grid;
@@ -43,9 +37,10 @@
 
     .large {
         font-size: 1.5em;
+        font-weight: 400;
     }
 
     .medium {
-        font-size: 1.0em;
+        font-size: 1.2em;
     }
 </style>

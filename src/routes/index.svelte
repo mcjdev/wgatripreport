@@ -7,6 +7,12 @@
 
 <svelte:head>
     <title>Welcome</title>
+    <style>
+        @font-face {
+            font-family: 'Work Sans';
+            src: url('/fonts/WorkSans-VariableFont_wght.ttf');
+        }
+    </style>
 </svelte:head>
 
 <FlightList>
